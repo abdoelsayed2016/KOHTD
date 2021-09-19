@@ -28,5 +28,24 @@ Despite the transition to digital information exchange, many documents, such as 
 
 You can download the dataset through this  <a href="https://drive.google.com/file/d/1BD2Nx2kn79xJLKJRKlmAFASdAb03ODIH/view">link</a> 
 
-Our database consists of a large collection of exam papers filled by students at Satbayev University and Al-Farabi Kazakh National University, this exam was made and answered in the Kazakh Language (99%) and Russian Language (1%) as shown in Fig.  1, after we received this exam answer, we scanned it and make experiments that related to pre-processing of the examination lists to automatically identifying lists, evaluate the contours of lists,recovering rotations, and also segmentation by line and by words so we can apply our Deep Learning model to recognize each word and remove the artifacts in the edges at the boundaries of segmented words. We have developed our intelligent software using state-of-the-art deep learning models to solve the problem of recognizing and processing natural language, which consists of optical character recognition of the manuscript texts in Kazakh and Russian languages.
+Our database consists of a large collection of exam papers filled by students at Satbayev University and Al-Farabi Kazakh National University, this exam was made and answered in the Kazakh Language (99%) and Russian Language (1%) as shown in the folllowing Figure, after we received this exam answer, we scanned it and make experiments that related to pre-processing of the examination lists to automatically identifying lists, evaluate the contours of lists,recovering rotations, and also segmentation by line and by words so we can apply our Deep Learning model to recognize each word and remove the artifacts in the edges at the boundaries of segmented words. We have developed our intelligent software using state-of-the-art deep learning models to solve the problem of recognizing and processing natural language, which consists of optical character recognition of the manuscript texts in Kazakh and Russian languages.
 
+<img src="images/Exam1.png" width="45%" height="40%" align="left">
+<img src="images/Exam2.png" width="45%" height="40%" align="right">
+
+<br clear="left">
+
+
+
+
+
+## Citation and Contact
+Please consider to cite our papers when you use our dataset:
+```
+
+```
+
+
+For any quetions about the dataset please contact the authors by sending email to Prof. Daniyar Nurseitov
+([nurseitovdb@gmail.com](mailto:nurseitovdb@gmail.com)), Dr. Kairat Bostanbekov
+([Kairat.boss@gmail.com](mailto:Kairat.boss@gmail.com)) , Abdelrahman Abdallah ([abdoelsayed2016@gmail.com](mailto:abdoelsayed2016@gmail.com)) 
