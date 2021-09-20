@@ -42,7 +42,7 @@ For line segmentation, we used a genetic algorithm. Genetic Algorithm (GA) is a 
 in the  following figure segmented line  using GA. For more detail about GA please read our paper and you can use the code of GA from this <a href="https://github.com/GalymzhanAbdimanap/GeneticAlgorithm"> Link </a>.
 
 
-
+<img src="images/7_gen_line_last.jpg">
 <img src="images/Segmentation of words.jpg">
 
 ## Citation and Contact
