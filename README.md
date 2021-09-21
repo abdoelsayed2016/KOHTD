@@ -36,6 +36,7 @@ Our database consists of a large collection of exam papers filled by students at
 <br clear="left">
 
 
+
 ## Line Segmentataion 
 For line segmentation, we used a genetic algorithm. Genetic Algorithm (GA) is a classic evolutionary algorithm based on random enumeration of a parameter. By random here we mean that in order to find a solution using GA, random changes were applied to the current solutions to generate new ones. GA is based on Darwin's theory of evolution. It is a slow, gradual process that works by making small and slow changes. In addition, GA is slowly making small changes to its decisions until it gets the best solution.
 
