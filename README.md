@@ -26,7 +26,7 @@ Despite the transition to digital information exchange, many documents, such as 
 
 ## KOHTD Dataset
 
-You can download the dataset through this  <a href="https://drive.google.com/file/d/1BD2Nx2kn79xJLKJRKlmAFASdAb03ODIH/view">link</a> 
+You can download the dataset through this  <a href="https://drive.google.com/drive/folders/1zOAOD_E7FWW9NrRAXSci0zmk30yqJS4o">link</a> 
 
 Our database consists of a large collection of exam papers filled by students at Satbayev University and Al-Farabi Kazakh National University, this exam was made and answered in the Kazakh Language (99%) and Russian Language (1%) as shown in the folllowing Figure, after we received this exam answer, we scanned it and make experiments that related to pre-processing of the examination lists to automatically identifying lists, evaluate the contours of lists,recovering rotations, and also segmentation by line and by words so we can apply our Deep Learning model to recognize each word and remove the artifacts in the edges at the boundaries of segmented words. We have developed our intelligent software using state-of-the-art deep learning models to solve the problem of recognizing and processing natural language, which consists of optical character recognition of the manuscript texts in Kazakh and Russian languages.
 
