@@ -49,7 +49,14 @@ in the  following figure segmented line  using GA. For more detail about GA plea
 ## Citation and Contact
 Please consider to cite our papers when you use our dataset:
 ```
-
+@misc{toiganbayeva2021kohtd,
+      title={KOHTD: Kazakh Offline Handwritten Text Dataset}, 
+      author={Nazgul Toiganbayeva and Mahmoud Kasem and Galymzhan Abdimanap and Kairat Bostanbekov and Abdelrahman Abdallah and Anel Alimova and Daniyar Nurseitov},
+      year={2021},
+      eprint={2110.04075},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 
