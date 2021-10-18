@@ -45,8 +45,10 @@ in the  following figure segmented line  using GA. For more detail about GA plea
 
 <img src="images/7_gen_line_last.jpg">
 <img src="images/Segmentation of words.jpg">
+
 ## Download 
 You can download the dataset through this  <a href="https://drive.google.com/drive/folders/1zOAOD_E7FWW9NrRAXSci0zmk30yqJS4o">link</a>  and the password is : <b> P@ssw0rd_KOHTD2021</b>
+
 ## Citation and Contact
 Please consider to cite our papers when you use our dataset:
 ```
