@@ -18,6 +18,11 @@
 > <br>
 
     
+## Note:
+The HKR Dataset can only be used for non-commercial research purpose. 
+For researchers who wants to use the HKR database, please first fill
+in this [Application Form](Application_Form/Application_Form_for_HKR.doc) 
+and send it via email to us ([nurseitovdb@gmail.com](mailto:nurseitovdb@gmail.com),[Kairat.boss@gmail.com](mailto:Kairat.boss@gmail.com)). 
 
 
 
